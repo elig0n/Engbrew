@@ -12,7 +12,7 @@ lay = {
 try:
     str = sys.argv[1]
 except IndexError:
-    print("No string was supplied.")
+    print("No argument or string was supplied.")
 
 for c in str:
     if c in lay: 
