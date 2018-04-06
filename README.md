@@ -3,7 +3,7 @@ Python script to convert accidental english layout typed hebrew text into hebrew
 
 # Usage
 
-> $ Engbrew.py "akuo guko" | rev
+> $ Engbrew.py 'akuo guko' | rev
 
 > שלום עולם
 
