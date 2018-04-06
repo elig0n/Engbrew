@@ -1,5 +1,5 @@
 # Engbrew.py
-Python script to convert english layout typed hebrew text to hebrew
+Python script to convert accidental english layout typed hebrew text into hebrew
 
 # Usage
 
