@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# laycon.py - convert english characters to hebrew layout
+# Engbrew.py - convert english characters to hebrew layout
 
 import sys
 
